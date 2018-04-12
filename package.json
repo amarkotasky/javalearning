@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/amarkotasky/javalearning/issues"
   },
-  "homepage": "https://github.com/amarkotasky/javalearning#readme"
+  "homepage": "https://github.com/amarkotasky/javalearning#readme",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "express": "^4.16.3",
+    "nsp": "^3.2.1",
+    "open": "0.0.5",
+    "request": "^2.85.0"
+  }
 }
